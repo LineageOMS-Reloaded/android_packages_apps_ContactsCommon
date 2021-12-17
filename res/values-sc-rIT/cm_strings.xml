@@ -14,5 +14,5 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="share_failed">Demasiados contactos, error al compartir</string>
+    <string name="label_groups">Grupu</string>
 </resources>
